@@ -4,7 +4,7 @@
 
 ### 🎯 Full-Stack Developer | Software Outsourcing Expert
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Experience;Vue.js+%7C+React+%7C+Node.js;Flutter+%7C+Python+%7C+TypeScript;Open+for+Collaboration!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Experience;Vue.js+%7C+React+%7C+Node.js;Flutter+%7C+Rust+%7C+Solana;Open+for+Collaboration!" alt="Typing SVG" />
 
 ---
 
@@ -16,14 +16,14 @@
 
 ## 💫 About Me
 
-I am a passionate full-stack engineer with over **5 years of experience**, specializing in modern tech stacks like **Vue.js, React, Node.js, and Flutter**. I provide professional software outsourcing services to clients worldwide.
+I am a passionate full-stack engineer with over **5 years of experience**, specializing in modern tech stacks like **Vue.js, React, Node.js, Flutter, Rust, and Solana**. I provide professional software outsourcing services to clients worldwide.
 
 ```yaml
 name: JinXuchen2020
 location: 🌏 Remote / Worldwide
 current_focus: Full-Stack Development & Software Outsourcing
 available: Open for new projects
-languages: JavaScript, TypeScript, Python, Dart
+languages: JavaScript, TypeScript, Python, Dart, Rust, C#
 hobbies: Coding, Learning New Tech, Building Products
 ```
 
@@ -33,45 +33,62 @@ hobbies: Coding, Learning New Tech, Building Products
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 🎨 Frontend
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-### 📱 Mobile & Cross-Platform
+### 📱 Mobile & Desktop
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-### 🗄️ Database & Tools
+### ⛓️ Blockchain
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-2DFFD0?style=flat-square&logo=solana&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ Tools & DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
 </tr>
@@ -83,12 +100,18 @@ hobbies: Coding, Learning New Tech, Building Products
 
 <div align="center">
 
-| 🏆 Project | 📝 Description | 🔗 Link |
-|:-----------|:---------------|:--------|
-| **Portfolio Website** | Personal portfolio & outsourcing services showcase | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/me) |
-| **ERP Online** | Enterprise Resource Planning System | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/erp) |
-| **Signples E-commerce** | Full-featured e-commerce platform | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/signples) |
-| **DAPA Zodiac Wallet** | Digital wallet application | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/wallet) |
+| 🏆 Project | 📝 Description | 💻 Tech | 🔗 Link |
+|:-----------|:---------------|:--------|:--------|
+| **Portfolio Website** | Personal portfolio & outsourcing services | Stylus | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/me) |
+| **ERP Online** | Enterprise Resource Planning System | Vue.js | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/erp_online) |
+| **Signples E-commerce** | Full-featured e-commerce platform | Vue.js | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/signples) |
+| **DAPA Zodiac Wallet** | Digital wallet application | Flutter/Dart | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/dapa-zodiac-wallet) |
+| **Rust Mart** | Rust learning project | Rust | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/rust-mart) |
+| **Anchor NFT Staking** | Solana NFT staking smart contract | TypeScript/Anchor | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/anchor-nft-staking) |
+| **Trade Analysis** | Trading analysis platform | TypeScript | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/trade-analysis) |
+| **Work Order Online** | Online work order management system | TypeScript | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/workorderonline) |
+| **Excel Online** | Online Excel/spreadsheet application | C#/TypeScript | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/excelonline) |
+| **Tour Inspection** | Tour inspection management system | C# | [![View](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/JinXuchen2020/tour-inspection) |
 
 </div>
 
@@ -100,7 +123,7 @@ hobbies: Coding, Learning New Tech, Building Products
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JinXuchen2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinXuchen2020&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinXuchen2020&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -124,11 +147,12 @@ hobbies: Coding, Learning New Tech, Building Products
 
 | Service | Technologies |
 |:--------|:-------------|
-| 🖥️ **Web Development** | Vue.js, React, TypeScript |
+| 🖥️ **Web Development** | Vue.js, React, Next.js, TypeScript |
 | 📱 **Mobile Apps** | Flutter Cross-Platform Development |
-| ⚙️ **Backend Services** | Node.js, RESTful APIs, GraphQL |
+| ⚙️ **Backend Services** | Node.js, Python, Rust, C# |
+| ⛓️ **Blockchain Development** | Solana, Anchor, Smart Contracts, NFT |
 | 🗄️ **Database Design** | MySQL, MongoDB, PostgreSQL |
-| 📊 **Management Systems** | ERP, OA, CRM Solutions |
+| 📊 **Management Systems** | ERP, OA, CRM, Inventory, Work Order |
 
 </div>
 
@@ -137,14 +161,6 @@ hobbies: Coding, Learning New Tech, Building Products
 ## 💼 Collaboration Process
 
 <div align="center">
-
-```mermaid
-graph LR
-A[📋 Requirements] --> B[💡 Proposal]
-B --> C[📝 Contract]
-C --> D[🚀 Development]
-D --> E[🛠️ Support]
-```
 
 | Step | Description |
 |:----:|:------------|
