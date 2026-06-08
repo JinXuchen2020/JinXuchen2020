@@ -121,21 +121,15 @@ hobbies: Coding, Learning New Tech, Building Products
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JinXuchen2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JinXuchen2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinXuchen2020&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JinXuchen2020&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinXuchen2020&layout=compact&langs_count=10&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JinXuchen2020&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JinXuchen2020&theme=tokyonight" alt="GitHub Streak"/>
 
 </div>
 
@@ -201,9 +195,5 @@ hobbies: Coding, Learning New Tech, Building Products
 <div align="center">
 
 ### 💡 Open for collaboration! Feel free to reach out for any project inquiries.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer" alt="Footer"/>
 
 </div>
